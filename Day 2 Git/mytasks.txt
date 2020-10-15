@@ -1,0 +1,6 @@
+1. Install git
+2. Create webpage:
+3. Commit webpage and image
+4. Create services page / commit it
+5. Remove services page / commit it
+6. Upload to OneDrive share link
